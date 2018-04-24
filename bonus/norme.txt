@@ -1,0 +1,30 @@
+NORME EPITECH PROJECT GIT 2017
+
+-----------------------------
+
+Usage :
+
+	Key word [location] : comment
+
+Key words :
+
+	Added
+	Modified
+	Update
+	Removed
+	Todo
+
+Location :
+
+	Represent the location of the changement
+	You can put a file or a folder of a function
+
+Comment :
+	
+	Short english description of the changes.
+
+
+Exemple :
+	
+	"Added [parse_file.c] : function to init the parsing"
+
