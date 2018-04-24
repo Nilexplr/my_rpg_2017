@@ -4,7 +4,7 @@ my_rpg_2017
 
 Florent Poinssard : HUD / save / Menue
 
-Cyril Floureux : Loot systèm /Animation
+Cyril Floureux : Loot system /Animation
 
 Enzo Perrot : View / Building
 
